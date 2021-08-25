@@ -1,0 +1,4 @@
+[submodule "dist"]
+	path = dist
+	url = https://github.com/Yunsang-Jeong/blog.git
+	branch = gh-pages
