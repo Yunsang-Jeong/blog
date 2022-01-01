@@ -2,7 +2,7 @@ Github pages에 `Vite for vue js 3`와 `tailwind`를 통해 간단한 블로그�
 
 # Github pages
 
-배포되는 도메인은 `https://yunsang-jeong.github.io/blog/` 이며 `gh-pages` 브랜치의 `/`가 서비스 됩니다.
+배포되는 도메인은 https://yunsang-jeong.github.io/blog/ 이며 `gh-pages` 브랜치의 `/`가 서비스 됩니다.
 
 ## branch
 
